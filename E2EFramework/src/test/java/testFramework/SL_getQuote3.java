@@ -35,7 +35,9 @@ driver = invokebrowser();
 	log.info("DOB3 is entered");
 	log.info("DOB4 is entered");
 	log.info("DOB5 is entered");
-		
+	log.info("DOB6 is entered");
+	log.info("DOB7 is entered");
+	log.info("DOB8 is entered");
 }
 
 @Test	
