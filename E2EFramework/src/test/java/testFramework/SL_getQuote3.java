@@ -30,8 +30,12 @@ driver = invokebrowser();
 	
 	driver.get(data.getProperty("URL"));
 	log.info("Sunlife URL is launched");
-
-	
+	log.info("DOB1 is entered");
+	log.info("DOB2 is entered");
+	log.info("DOB3 is entered");
+	log.info("DOB4 is entered");
+	log.info("DOB5 is entered");
+		
 }
 
 @Test	
